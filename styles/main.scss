@@ -1,0 +1,21 @@
+@use "./variables.scss" as *;
+@use "./reset.scss" as *;
+
+html {
+  font-size: 14px;
+}
+body{
+    font-family: var(--fontFamily);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: .3rem;
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
