@@ -1,23 +1,18 @@
 :root {
-    //colors---------------
-    --white: #ffffff;
+  //colors---------------
+  --white: #ffffff;
+  --viridian: #3c8067;
+  --desertStorm: #f2ebe3;
+  --blueCharcoal: #1c232b;
+  --stormGrey: #6c7289;
 
-    --viridian: #3C8067;
-    --desertStorm:#F2EBE3;
-  --blueCharcoal:#1C232B;
-  --stormGrey:#6C7289
-    //breakpoints------------
-    --mobileSize: 375px;
-    --desktopSize: 1440px;
-  
-    //font weight--------------------
-    --light: 300;
-    --regular: 400;
-    --medium: 500;
-    --bold: 700;
-  
-    //font family---------------------
-    --fontFamily: "Montserrat", serif;
-    --fontFamily2: "Fraunces", serif;
-    
-  }
+  //font weight--------------------
+  --light: 300;
+  --regular: 400;
+  --medium: 500;
+  --bold: 700;
+
+  //font family---------------------
+  --fontFamily-montserrat: "Montserrat", serif;
+  --fontFamily-fraunces: "Fraunces", serif;
+}
